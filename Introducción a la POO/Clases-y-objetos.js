@@ -10,7 +10,7 @@ class LaClase {
     
 }
 
-let objeto = new LaClase("parame1","parame2")
+let objeto = new LaClase("parame1","parame2") //Creación de una instancia para el objeto
 
 objeto.metodo //La llamada del método
 
